@@ -1,4 +1,8 @@
 # jasminemccune.github.io
+├── index.html
+├── style.css
+└── README.md
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,3 +37,69 @@
   </main>
 </body>
 </html>
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: #ffffff;
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 720px;
+  margin: 80px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.6rem;
+}
+
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+}
+
+a:hover {
+  border-bottom-color: #1a1a1a;
+}
+
+# Your Name
+
+Strategic talent acquisition professional enabling hiring managers to build high-performing, scalable teams.
+
+## About
+This site highlights my work in recruiting strategy, hiring partnership, and career advisory.
+
+## Live Site
+https://yourusername.github.io
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/jasmine-mccune-828a4076/
+- Email: jasmine.mccune.mailbox@gmail.com
+
+
+
+
